@@ -1,5 +1,6 @@
 2034293 [primo sviluppatore]  
 2042329 [secondo sviluppatore]  
-[processori](processori.md)  
-[schede madri](schede_madri.md)  
-Elettronica Padovana
+Elettronica Padovana  
+#### Componenti
+[processori](componenti/processori.md)  
+[schede madri](componenti/schede_madri.md)
